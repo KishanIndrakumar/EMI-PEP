@@ -1,0 +1,56 @@
+{
+  "name": "PEPguide \u2014 Clinical Post-Exposure Decision Support",
+  "short_name": "PEPguide",
+  "description": "Emergency Department clinical decision support for BBV PEP, Rabies PET, and Tetanus prophylaxis. Covers HIV, HBV, HCV, Rabies, and Tetanus pathways based on Irish EMI, NHPO, and NIAC guidelines.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B6E4F",
+  "theme_color": "#0B6E4F",
+  "lang": "en-IE",
+  "categories": [
+    "medical",
+    "health"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Needlestick / Sharps",
+      "short_name": "Sharps",
+      "description": "Assess a needlestick or sharps injury",
+      "url": "/#sharps"
+    },
+    {
+      "name": "Sexual Exposure",
+      "short_name": "Sexual",
+      "description": "Assess a sexual exposure",
+      "url": "/#sexual"
+    },
+    {
+      "name": "Rabies PET",
+      "short_name": "Rabies",
+      "description": "Rabies post-exposure treatment assessment",
+      "url": "/#rabies"
+    },
+    {
+      "name": "Tetanus",
+      "short_name": "Tetanus",
+      "description": "Tetanus wound assessment",
+      "url": "/#tetanus-sa"
+    }
+  ]
+}
