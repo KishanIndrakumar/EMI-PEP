@@ -10,7 +10,7 @@
  *   update cache in background for next visit
  */
 
-const CACHE = 'pepguide-v2026.5';
+const CACHE = 'pepguide-v2026.6';
 
 self.addEventListener('install', event => {
   event.waitUntil(
