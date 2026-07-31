@@ -1,4 +1,4 @@
-const CACHE = 'pepguide-v2026.12';
+const CACHE = 'pepguide-v2026.13';
 
 self.addEventListener('install', event => {
   event.waitUntil(
